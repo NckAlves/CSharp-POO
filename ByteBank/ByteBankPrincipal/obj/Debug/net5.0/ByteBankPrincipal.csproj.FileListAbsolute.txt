@@ -1,0 +1,16 @@
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ByteBankPrincipal.exe
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ByteBankPrincipal.deps.json
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ByteBankPrincipal.runtimeconfig.json
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ByteBankPrincipal.runtimeconfig.dev.json
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ByteBankPrincipal.dll
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ref\ByteBankPrincipal.dll
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\bin\Debug\net5.0\ByteBankPrincipal.pdb
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.csprojAssemblyReference.cache
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.AssemblyInfoInputs.cache
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.AssemblyInfo.cs
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.dll
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ref\ByteBankPrincipal.dll
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.pdb
+D:\Dev\CSharp\POO\ByteBank\ByteBankPrincipal\obj\Debug\net5.0\ByteBankPrincipal.genruntimeconfig.cache
